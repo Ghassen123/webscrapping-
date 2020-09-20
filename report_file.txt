@@ -1,0 +1,1 @@
+{"Start_Time": "1599362076.6292021", "End_Time": "2020-09-06 04:34:34.325324", "Processing_Time_Seconds": "1197.6961827278137", "Status": "Success", "Methode": "get_products_list_urls_form_index"}
